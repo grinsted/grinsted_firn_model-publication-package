@@ -4,7 +4,7 @@
 This repository is a small collection of selected scripts and data files for the manuscript with the working title:
 "Firn Rheology from Contrasting Shear Regimes" by Grinsted et al. 
 
-Our intent is that contents of this repository will be properly documented and archived in zenodo or similar upon acceptance of the manuscript.
+Our intent is that contents of this repository will be properly documented and archived in zenodo upon acceptance of the manuscript.
 
 
 ## Description of files: 
@@ -12,7 +12,7 @@ Our intent is that contents of this repository will be properly documented and a
 * grinsted_firn_model.py
   - A set of utility functions for the firn rheology
 * 9_implications.ipynb
-  - A forward flowline density model tracking z_closeoff and $\Delta age$. This code reproduces the 
+  - A forward flowline density model tracking $z_{closeoff}$ and $\Delta age$. This code reproduces the 
 * 5_fit_spline.parquet
   - This file has the $a(\rho)$ and $b(\rho)$ table from our flowline inversion. 
 * steadystate_fit.parquet
