@@ -8,14 +8,6 @@ This repository contains data products and code accompanying the manuscript:
 
 This is a preliminary publication package prepared for the review stage. The repository will be further documented and archived with a persistent identifier after manuscript acceptance.
 
-## Authors
-
-Aslak Grinsted<sup>1</sup>, Nicholas Mossor Rathmann<sup>1</sup>, Johannes Freitag<sup>2</sup>, Josephine Lindsey-Clark<sup>1</sup>, Sune Olander Rasmussen<sup>1</sup>, Niels Fabrin Nymand<sup>1</sup>, Christine Schøtt Hvidberg<sup>1</sup>
-
-<sup>1</sup> Physics of Ice, Climate, and Earth, Niels Bohr Institute, University of Copenhagen, Jagtvej 128, DK-2200 Copenhagen N, Denmark
-
-<sup>2</sup> Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, Germany
-
 ## Entry point
 
 The recommended starting point is:
