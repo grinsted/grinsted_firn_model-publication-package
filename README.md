@@ -1,6 +1,7 @@
 # Firn Rheology Revealed by Contrasting Shear Regimes
+## publication package
 
-This is a preliminary repo containing data and code for the manuscript. Our intent is to better document everything and archive it properly once the manuscript has been accepted. 
+This is a preliminary repo containing data and code for the manuscript "Firn Rheology Revealed by Contrasting Shear Regimes publication". Our intent is to better document everything and archive it properly once the manuscript has been accepted. 
 
 ## Authors
 
