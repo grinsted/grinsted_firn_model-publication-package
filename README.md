@@ -4,16 +4,7 @@
 This is a preliminary repo containing data and code for the manuscript "Firn Rheology Revealed by Contrasting Shear Regimes publication". Our intent is to better document everything and archive it properly once the manuscript has been accepted. 
 
 ## Authors
-
-- Aslak Grinsted<sup>1</sup>
-- Nicholas Mossor Rathmann<sup>1</sup>
-- Johannes Freitag<sup>2</sup>
-- Josephine Lindsey-Clark<sup>1</sup>
-- Sune Olander Rasmussen<sup>1</sup>
-- Niels Fabrin Nymand<sup>1</sup>
-- Christine Schøtt Hvidberg<sup>1</sup>
-
-## Affiliations
+Aslak Grinsted<sup>1</sup>, Nicholas Mossor Rathmann<sup>1</sup>, Johannes Freitag<sup>2</sup>, Josephine Lindsey-Clark<sup>1</sup>, Sune Olander Rasmussen<sup>1</sup>, Niels Fabrin Nymand<sup>1</sup>, Christine Schøtt Hvidberg<sup>1</sup>
 
 <sup>1</sup> Physics of Ice, Climate, and Earth, Niels Bohr Institute, University of Copenhagen, Jagtvej 128, DK-2200 Copenhagen N, Denmark  
 
