@@ -11,6 +11,14 @@ Aslak Grinsted<sup>1</sup>, Nicholas Mossor Rathmann<sup>1</sup>, Johannes Freit
 <sup>2</sup> Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, Germany
 
 
+## ENTRY POINT
+
+If you want to play with these scripts, then your entry point should be 9_implications.ipynb 
+
+(That will show you how everything is being used.)
+
+
+
 ## Desciption of files
 
 | File                            | Description                                         | 
@@ -25,10 +33,4 @@ Aslak Grinsted<sup>1</sup>, Nicholas Mossor Rathmann<sup>1</sup>, Johannes Freit
 | 5_fit_spline.parquet            | non-steady state a&b parameter fits (see fig3)      |
 | grinsted_firn_model.py          | many key functions describing the rheology          |
 
-
-## ENTRY POINT
-
-If you want to play with these scripts, then the entry point should be 9_implications.ipynb 
-
-Then you can see how everything is being used. 
 
