@@ -26,7 +26,7 @@ If you want to play with these scripts, then your entry point should be 9_implic
 | bdot_regression_estimate.tif    | radar+topography based estimate of local accumation |
 | EGRIP_backtrajectory.parquet    | data extracted along the back trajectory from EGRIP |
 | S5-1hxct_backtrajectory.parquet | data extracted along the back trajectory from S5-1  |
-| 9_implications.ipynb            | Code that reproduces figure 4. (ENTRY POINT)        |
+| 9_implications.ipynb            | Code that reproduces figure 4. (*ENTRY POINT*)      |
 | Density_S5_1_HXCT.txt           | HXCT density measurements for S5-1                  |
 | egrip_ice_core_acc.parquet      | ice core derived accumulation rates (see fig2)      |
 | steadystate_fit.parquet         | steady state a&b parameter fits (see fig3)          |
